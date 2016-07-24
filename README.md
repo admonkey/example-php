@@ -1,5 +1,8 @@
 Codecov PHP Example
 ===================
+[![Build Status](https://travis-ci.org/admonkey/example-php.svg?branch=master)](https://travis-ci.org/admonkey/example-php)
+[![Codecov](https://img.shields.io/codecov/c/github/admonkey/example-php.svg?maxAge=2592000)](https://codecov.io/gh/admonkey/example-php)
+[![GitHub issues](https://img.shields.io/github/issues/admonkey/example-php.svg?maxAge=2592000)](https://github.com/admonkey/example-php/issues)
 
 | [https://codecov.io][1] | [@codecov][2] | [hello@codecov.io][3] |
 | ----------------------- | ------------- | --------------------- |
