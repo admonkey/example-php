@@ -2,13 +2,13 @@
 
 class Example
 {
-    public static function go()
+    public static function go($bool = false)
     {
-        if (false) {
+        if ($bool) {
             return true;
         }
 
         return false;
-        
+
     }
 }

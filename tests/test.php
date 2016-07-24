@@ -3,9 +3,16 @@
 
     class Test extends PHPUnit_Framework_TestCase
     {
+
         public function testExample()
         {
             $result = Example\Example::go();
         }
+
+        public function testExampleTrue()
+        {
+            $result = Example\Example::go(true);
+        }
+
     }
-?>  
+?>
