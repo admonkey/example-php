@@ -6,12 +6,12 @@
 
         public function testExample()
         {
-            $result = Example\Example::go();
+            $this->assertFalse(Example\Example::go());
         }
 
         public function testExampleTrue()
         {
-            $result = Example\Example::go(true);
+            $this->assertTrue(Example\Example::go(true));
         }
 
     }

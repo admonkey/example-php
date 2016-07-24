@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1469389437">
-  <project timestamp="1469389437">
+<coverage generated="1469391104">
+  <project timestamp="1469391104">
     <package name="Example">
       <file name="/var/www/example-php/src/Example/Example.php">
         <class name="Example" namespace="Example">
