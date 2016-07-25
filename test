@@ -1,0 +1,3 @@
+#!/bin/bash
+vendor/bin/phpunit --coverage-html=html
+php -S localhost:8080 -t html/

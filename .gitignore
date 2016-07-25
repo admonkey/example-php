@@ -3,3 +3,5 @@ vendor
 .DS_Store
 venv
 credentials.local.inc.php
+html/
+coverage.xml
